@@ -1,1 +1,1 @@
-print("This is my first Example")
+print("This is my first Example of git")
